@@ -1,0 +1,17 @@
+{
+  "name": "ocpu-bot",
+  "version": "1.0.0",
+  "description": "My Discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/ocpu/ocpu-bot.git",
+  "author": "Martin Hövre <sickan843@live.se>",
+  "license": "UNLICENSED",
+  "bugs": "https://github.com/ocpu/ocpu-bot/issues",
+  "homepage": "https://github.com/ocpu/ocpu-bot#readme",
+  "dependencies": {
+    "discordie": "^0.11.0"
+  }
+}

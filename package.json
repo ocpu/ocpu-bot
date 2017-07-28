@@ -12,6 +12,7 @@
   "bugs": "https://github.com/ocpu/ocpu-bot/issues",
   "homepage": "https://github.com/ocpu/ocpu-bot#readme",
   "dependencies": {
-    "discordie": "^0.11.0"
+    "discordie": "^0.11.0",
+    "fsp": "^0.1.2"
   }
 }

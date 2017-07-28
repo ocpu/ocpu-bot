@@ -3,11 +3,7 @@
         "node": true
     },
     "parserOptions": {
-        "ecmaVersion": 6,
-        "sourceType": "module",
-        "ecmaFeatures": {
-            "jsx": false
-        }
+        "ecmaVersion": 6
     },
     "rules": {
         "semi": 0
